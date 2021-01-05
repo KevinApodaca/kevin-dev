@@ -18,5 +18,4 @@
 - Uses same front-matter fields as Dev.to.
 
 ## Read the Blog 🚀
-coming soon...
-
+https://kevin-dev.netlify.app/
