@@ -2,7 +2,7 @@
 title: Hello World 👋
 date: 2020-01-05
 published: true
-tags: ['Gridsome', 'Starter', 'Tester']
+tags: ['VueJS', 'Starter', 'Tester']
 canonical_url: false
 description: "This is a very simple initial post to test functionality of blog"
 ---
