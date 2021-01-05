@@ -1,4 +1,11 @@
-# Kevin Apodaca Dev Blog ⚡️
+<h1 align="center"> 
+  <br>
+  <img src="profile.jpg" alt="Profile Picture" width="200" style="border-radius: 8px;"></a>
+  <br>
+  Dev Blog ⚡️
+  <br>
+  </h1>
+
 
 > a simple blog site for me to discuss topics and learn new technologies.
 
